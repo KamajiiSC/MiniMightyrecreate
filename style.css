@@ -1,0 +1,42 @@
+body{
+  margin:0%;
+}
+h1{
+  margin-top:0;
+}
+header{
+  color:white;
+  background-color: rgb(46, 44, 44);
+}
+header ul{
+  margin-left: 40%;
+}
+header ul li{
+  list-style: none;
+  display:inline-block;
+  margin-left: 10em; 
+}
+header ul li a{
+  text-decoration: none;
+  color:white;
+}
+header ul li a:hover{
+  color:rgb(199, 90, 17);
+}
+
+.verticalnav{
+  width:.2px;
+  height: 4em;
+  position: absolute;
+  left: 51em;
+  bottom: 40.6em;
+}
+#workline{
+  left:64em;
+}
+#blogline{
+  left:77em;
+}
+#contactline{
+  left:90em;
+}
